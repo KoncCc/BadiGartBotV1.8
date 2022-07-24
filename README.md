@@ -1,1 +1,1 @@
-# BadiGartBotV1.8
+# BadiGartBot
